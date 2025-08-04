@@ -662,19 +662,15 @@ Banner Style
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/web-back.webp);
+  background-image: url(../images/seo-back.webp);
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/id-back.webp);
+  background-image: url(../images/web-back.webp);
 }
 
 .main-banner .item-4 {
   background-image: url(../images/bot-back.webp);
-}
-
-.main-banner .item-5 {
-  background-image: url(../images/seo-back.webp);
 }
 
 .main-banner .item {
@@ -702,14 +698,14 @@ Banner Style
   font-size: 48px;
   font-weight: 700;
   color: #fff;
-  line-height: 70px;
-  width: 60%;
-  margin-bottom: 30px;
+  line-height: 60px;
+  width: 70%;
+  margin-bottom: 60px;
 }
 
 .main-banner .item p {
   color: #fff;
-  width: 65%;
+  width: 75%;
 }
 
 .main-banner .item .buttons {
